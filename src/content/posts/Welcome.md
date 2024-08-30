@@ -1,10 +1,10 @@
 ---
 title: Welcome
 published: 2024-08-30
-description: ''
+description: 'Welcome to my blog'
 image: ''
 tags: []
-category: ''
+category: '随笔'
 draft: false 
 language: ''
 ---
