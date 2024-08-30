@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好，我是 Maplef！
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 关于我的名字
+
+这个名字由来已久，距离我第一次写下这个名字，至今大约有十年了。从小时我便很喜欢“秋天”和“枫叶”的意象，认为秋季是一年四季中最美的季节，故决定以“叶小枫”作为自己的中文笔名和网络身份。
+
+与此相对地，取英文 "Maple" 和 "Leaf"，将其首尾组合，便可得到一个生造的词 "Mapleaf"。为了让这个词看起来更像一个名字并且合乎音律，我去掉了其中的元音字母 "a"，于是就得到了 "Maplef" 这个名字。
+
+## 我的身份
+
+......
+
+## 我的追求
+
+......
