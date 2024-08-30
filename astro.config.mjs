@@ -16,8 +16,8 @@ import remarkMath from "remark-math"
 import { AdmonitionComponent } from "./src/plugins/rehype-component-admonition.mjs"
 import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.mjs"
 import {parseDirectiveNode} from "./src/plugins/remark-directive-rehype.js";
-import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs"
 import {remarkExcerpt} from "./src/plugins/remark-excerpt.js";
+import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs"
 
 const oklchToHex = (str) => {
   const DEFAULT_HUE = 250
@@ -31,7 +31,7 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fuwari.vercel.app/",
+  site: "https://www.maplef.top/",
   base: "/",
   trailingSlash: "always",
   integrations: [
