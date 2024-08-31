@@ -2,8 +2,8 @@
 title: Welcome
 published: 2024-08-30
 description: 'Welcome to my blog'
-image: ''
-tags: []
+image: './cover.png'
+tags: [welcome]
 category: '随笔'
 draft: false 
 language: ''
