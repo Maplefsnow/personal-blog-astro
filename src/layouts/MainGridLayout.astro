@@ -6,6 +6,7 @@ import SideBar from '@components/widget/SideBar.astro'
 import Layout from './Layout.astro'
 import { Icon } from 'astro-icon/components'
 import { siteConfig } from '../config'
+import Comments from '@components/Comments.astro'
 
 interface Props {
   title?: string
@@ -52,6 +53,7 @@ const hasBannerLink = !!siteConfig.banner.credit.url
             <slot></slot>
         </main>
 
+        <Comments></Comments>
     </div>
 
     <div id="footer" class="grid-rows-3 col-span-2 mt-4 onload-animation">
