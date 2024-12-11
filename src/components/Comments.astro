@@ -1,7 +1,12 @@
 ---
-const pathname = decodeURIComponent(Astro.url.pathname || ""); //解码
-const postName = pathname?.split("/").pop();
-import { GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY_ID, GISCUS_LANG } from "../constants/giscus";
+const pathname = decodeURIComponent(Astro.url.pathname || '') //解码
+const postName = pathname?.split('/').pop()
+import {
+  GISCUS_REPO,
+  GISCUS_REPO_ID,
+  GISCUS_CATEGORY_ID,
+  GISCUS_LANG,
+} from '../constants/giscus'
 ---
 
 <meta
@@ -12,55 +17,44 @@ import { GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY_ID, GISCUS_LANG } from "..
   id="giscus-meta"
 />
 <meta property={`og:${postName}`} />
-<script>
-  const {
-    giscus_repo = "",
-    giscus_repo_id = "",
-    giscus_category_id = "",
-    giscus_lang,
-  } = (document.querySelector("#giscus-meta") as HTMLAnchorElement).dataset;
 
-  function sendMessage(message: Object) {
-    const iframe = document.querySelector(
-      "iframe.giscus-frame"
-    ) as HTMLIFrameElement;
-    if (!iframe || !iframe.contentWindow) return;
-    iframe.contentWindow.postMessage({ giscus: message }, "https://giscus.app");
+<div class="card-base p-6">
+<div class="giscus">
+  <section class="mx-auto mt-12">
+    <script
+      is:inline
+      src="https://giscus.app/client.js"
+      data-repo={GISCUS_REPO}
+      data-repo-id={GISCUS_REPO_ID}
+      data-category="General"
+      data-category-id={GISCUS_CATEGORY_ID}
+      data-mapping="og:title"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="preferred_color_scheme"
+      data-lang={GISCUS_LANG}
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async
+    ></script>
+  </section>
+</div>
+</div>
+
+<script is:inline>
+  function updateGiscusTheme() {
+    const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light'
+    const iframe = document.querySelector('iframe.giscus-frame')
+    if (!iframe) return
+    iframe.contentWindow.postMessage({ giscus: { setConfig: { theme } } }, 'https://giscus.app')
   }
 
-  function getCurrentTheme() {
-    const theme =
-      document.firstElementChild &&
-      document.firstElementChild.getAttribute("data-theme");
-    return theme;
-  }
+  const observer = new MutationObserver(updateGiscusTheme)
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] })
 
-  function createGusicScript() {
-    const container = document.getElementById("content-wrapper")
-    let script = document.createElement("script");
-    script.src = "https://giscus.app/client.js";
-    script.setAttribute("data-repo", giscus_repo);
-    script.setAttribute("data-repo-id", giscus_repo_id);
-    script.setAttribute("data-category", "General");
-    script.setAttribute("data-category-id", giscus_category_id);
-    script.setAttribute("data-mapping", "og:title");
-    script.setAttribute("data-strict", "0");
-    script.setAttribute("data-reactions-enabled", "1");
-    script.setAttribute("data-emit-metadata", "0");
-    script.setAttribute("data-input-position", "top");
-    script.setAttribute("data-theme", "preferred_color_scheme");
-    script.setAttribute("data-lang", giscus_lang || "en");
-    script.setAttribute("data-loading", "lazy");
-    script.setAttribute("crossorigin", "anonymous");
-    script.async = true;
-    container && container.appendChild(script);
+  window.onload = () => {
+    updateGiscusTheme()
   }
-
-  createGusicScript();
-  document.querySelector("#theme-btn")?.addEventListener("click", () => {
-    const theme = getCurrentTheme();
-    sendMessage({
-      setConfig: { theme: theme == "light" ? "dark_dimmed" : "light" },
-    });
-  });
 </script>
