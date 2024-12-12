@@ -40,6 +40,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
+    LinkPreset.Friends,
 	],
 };
 
@@ -48,6 +49,11 @@ export const profileConfig: ProfileConfig = {
 	name: "Maplef",
 	bio: "在日渐沉没的世界里，我找到了你",
 	links: [
+    {
+      name: "Email",
+      icon: "material-symbols:mail",
+      url: "mailto:i@maplef.top"
+    },
 		{
 			name: "Twitter",
 			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes

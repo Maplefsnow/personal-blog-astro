@@ -1,0 +1,36 @@
+---
+import { Icon } from 'astro-icon/components'
+interface FriendProps {
+  name: string
+  url: string
+  description: string
+  icon: string // 图标可以是 Icon 组件支持的名称
+  avatar: string // 朋友头像的 URL
+}
+---
+
+<a href={Astro.props.url} target="_blank" class="friend-card relative transition overflow-hidden bg-[var(--friend-card-bg)] py-5 px-6 shadow-lg rounded-lg block">
+    <div class="flex items-center gap-4">
+      <img src={Astro.props.avatar} alt={Astro.props.name + ' avatar'} class="w-12 h-12 rounded-full object-cover" />
+      <div>
+        <div class="font-bold text-lg text-[var(--primary)]">
+          {Astro.props.name}
+        </div>
+        <p class="text-sm font-bold text-black/75 dark:text-white/75 mt-1">{Astro.props.description}</p>
+      </div>
+      <Icon name={Astro.props.icon} class="text-4xl text-[var(--primary)] ml-auto" />
+    </div>
+</a>
+
+<style>
+.friend-card {
+  --friend-card-bg: #ffecd5;
+  --primary: #e28247;
+}
+
+.friend-card:hover {
+  transform: scale(1.05);
+  background-color: #f2cfa7;
+  color: white;
+}
+</style>
