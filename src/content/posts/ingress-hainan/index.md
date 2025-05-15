@@ -27,7 +27,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 至此如果一切顺利，覆盖海南岛的计划将会最早于4月30日在三亚成功完成，刚好避开劳动节可能涌入的旅游人潮。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/general-plan.jpg" width="300"/>
+    <img src="./images/general-plan.jpg" width="300"/>
     临行前所做的计划图
 </p>
 
@@ -142,7 +142,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 此行本计划参观海南铁路博物馆，但当我们到达后却被告知下午两点半以后才能入馆参观，这对我们的行程来说太晚了，是不可接受的。于是笔者只能按连线的原计划起 po，并心情激动地在距离此处 218km 的【海南航空】按下 link 按钮。至此，从海南最北端海口分别至东西两侧的基线均已成功建立，笔者离胜利又进了一步。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/rail-hainanhangkong.jpg" width="300"/>
+    <img src="./images/rail-hainanhangkong.jpg" width="300"/>
     从【海南铁路博物馆】到【海南航空】
 </p>
 
