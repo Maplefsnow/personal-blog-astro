@@ -28,7 +28,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <p align="center">
     <img src="./images/general-plan.jpg" width="300"/>
-    临行前所做的计划图
+    <center>临行前所做的计划图</center>
 </p>
 
 ## 战况实记
@@ -40,15 +40,15 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 谢过 SpaceLion 大佬后，大佬打的车就到了，于是匆匆告别，可儿准备的 biocard 也未来得及发出去。后来，SpaceLion 还给我们介绍了一位三亚的绿军伙伴 acaspirin 作为照应，又增加了我们的力量和信心。SpaceLion 大佬为我们提供的物资帮助我们理清了接下来计划的思路，给我们提供了非常重要的帮助和支持。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/spacelion-chat.jpg" width="300"/>
-    和 SpaceLion744 大佬的聊天
+    <img src="./images/spacelion-chat.jpg" width="300"/>
+    <center>和 SpaceLion744 大佬的聊天</center>
 </p>
 
 晚上，我们出门 c po，一路逛到了世纪大桥下，一人一个椰子捧在手里美美地嘬。新鲜的椰子清甜，带有青草的香气和椰子独有的味道，比超市里卖的椰子水不知道好喝多少倍。晚上回到旅馆，一边吃着椰奶清补凉一边打开 IITC 规划接下来的作战计划，在困倦的睡意中期望接下来的旅途一切顺利。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/coconut.jpg" width="300"/>
-    coconut!
+    <img src="./images/coconut.jpg" width="300"/>
+    <center>coconut!</center>
 </p>
 
 ### 4月28日 - 海口至文昌
@@ -59,8 +59,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <table>
 <tr>
-    <td><img src="/../src/content/posts/ingress-hainan/images/heavy-rain.jpg"></td>
-    <td><img src="/../src/content/posts/ingress-hainan/images/baoting-barrier.jpg"></td>
+    <td><img src="./images/heavy-rain.jpg"></td>
+    <td><img src="./images/baoting-barrier.jpg"></td>
 </tr>
 <tr>
     <td><center>从天上掉下来的海</center></td>
@@ -71,8 +71,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 好在，笔者联系了 acaspirin 后，大佬表示可以帮助解决保亭连线的问题。我们非常开心，于是和 acaspirin 交流了可能存在遮挡的位置，大佬非常乐意提供帮助，并表示没有问题。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/acaspirin-chat1.jpg" width="300"/>
-    请求 acaspirin 大佬帮助
+    <img src="./images/acaspirin-chat1.jpg" width="300"/>
+    <center>请求 acaspirin 大佬帮助</center>
 </p>
 
 下午，暴雨稍停之后，我们便驱车前往文昌。路上经过了海南大学，可儿送出了部分 biocard，笔者一路昏昏沉沉眼皮打架，最终在傍晚抵达了文昌鲁能希尔顿酒店——一个被火箭发射场养活的酒店。此时天已经基本放晴，窗外望去是灰蓝色的海和茂密的椰子林，在床上躺着欣赏，心情甚是愉快。此时我面朝大海，春暖未见花开，今夜我不关心全人类，我只在乎长征五号。
@@ -84,16 +84,16 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 事情像预想的那样发生了，63km，从【环形座椅】到【天海山大石头】，基线已经成型。笔者很激动，因为这意味着第一次成功，我们已经走出了第一步。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/tianhaishan-link.jpg" width="300"/>
-    从【环形座椅】到【天海山大石头】的示意（原图丢失）
+    <img src="./images/tianhaishan-link.jpg" width="300"/>
+    <center>从【环形座椅】到【天海山大石头】的示意（原图丢失）</center>
 </p>
 
 等待发射的过程是枯燥而无聊的，海面上大雾重重，我们甚至不知道火箭会从哪里升起，但是当半边天空被火光点亮的时候，一切等待都被赋予了意义。火箭穿雾而出，长长的尾焰在大雾中弥散成了一个火球，伴随着轰隆爆鸣迅速升空。笔者的手机条件有限，无法记录如此复杂的光学环境，只有勉强一段模糊的录像。但是人生第一次实地观看火箭发射的震撼场面，会在笔者的脑内清晰深刻，历久弥新，成为不可多得的人生体验。
 
 <table>
 <tr>
-    <td><img src="/../src/content/posts/ingress-hainan/images/cam-rocket2.jpg"></td>
-    <td><img src="/../src/content/posts/ingress-hainan/images/rocket.jpg"></td>
+    <td><img src="./images/cam-rocket2.jpg"></td>
+    <td><img src="./images/rocket.jpg"></td>
 </tr>
 <tr>
     <td><center>拍屏隔壁大哥的相机</center></td>
@@ -109,8 +109,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <table>
 <tr>
-    <td><img src="/../src/content/posts/ingress-hainan/images/meal1.jpg"></td>
-    <td><img src="/../src/content/posts/ingress-hainan/images/meal2.jpg"></td>
+    <td><img src="./images/meal1.jpg"></td>
+    <td><img src="./images/meal2.jpg"></td>
 </tr>
 </table>
 
@@ -121,8 +121,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 这个我们偶然发现的【水塔克】看起来是一个破败的水塔，在此等荒郊野地能发现新的 portal，怎么不算是一种天赐良遇。我们下车摸了一些 key，插好脚，上好盾，成功连接上了【环形座椅】和【天海山大石头】，做出了一个不大不小的 field。笔者心情舒畅，驱车下山，期待这个偶然发现的 po 能给我们带来更多的收获。
 
 <p align="center">
-    <img src="/../src/content/posts/ingress-hainan/images/shuitake-link.jpg" width="300"/>
-    从【水塔克】到【环形座椅】
+    <img src="./images/shuitake-link.jpg" width="300"/>
+    <center>从【水塔克】到【环形座椅】</center>
 </p>
 
 ### 4月30日上半 - 文昌经东方至三亚
@@ -143,7 +143,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <p align="center">
     <img src="./images/rail-hainanhangkong.jpg" width="300"/>
-    从【海南铁路博物馆】到【海南航空】
+    <center>从【海南铁路博物馆】到【海南航空】</center>
 </p>
 
 下午五点，笔者驱车抵达了三亚。成败在此一举。
@@ -156,15 +156,30 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 下午 5 时许，笔者离开住处开始行动，首先前往西半 field 的最后节点【金鸡岭路社区户外活动中心】。这个 po 位于一个小巷子内部，车子开进去后刚巧有一个停车位，并且还能正好摸到，于是西半边的 field 被成功建立。这是一个几乎两腰等长 200km，底边 128km 的区域，总共产出了 1555510MU，是此行规划的面积最大的 field。这时，行动已经成功了近一半，鉴于接下来的多重需要频繁走停，笔者于是更换了更方便的电动车作为载具。
 
+<p align="center">
+    <img src="./images/west-field.jpg" width="300"/>
+    <center>西半边的巨大 field</center>
+</p>
+
 整个海南的电动车交通似乎都非常发达，从海口到文昌，从东方到三亚，路上都充斥着大量非机动车的身影，无论是机非混合车道还是路口机动车控制线前巨大的非机动车等候区都给笔者这个苏E外乡人带来了不小的震撼。虽然开车在这里成为了一件技巧性和心理素质要求很高的事情，但好在足够发达的电动车交通为我们沿路摸 po 提供了方便。
 
 按照预先的规划，我们将沿荔枝沟路行进至金鸡岭街，最后到达海岸边，使用沿途挑选好的 11 个 po 做多重。由于多重的形状比较狭长，link 距离达到了 211km，笔者只得在每个 po 上都安装 SoftBank Ultra Link 增加连接距离。笔者在金鸡岭街走走停停，每个 field 大小都基本在 100w MU 左右，一共拉了 11 个。在拉最后一个 po 【阑海花园】的时候，又额外将其连接至了【水塔克】，使笔者额外多获得了 100w MU。
+
+<p align="center">
+    <img src="./images/east-multiple-all.jpg" width="300"/>
+    <center>东半部分的多重</center>
+</p>
 
 ## 结语
 
 连接完最后一个 link 后，笔者坐在电动车上傻笑，听着自己越来越响咚咚咚的心跳，回想着这几天的计划、担忧、欣喜、激动，此刻都已经了然。然而做这一切究竟有什么意义呢？这个游戏给我带来的究竟是什么呢？笔者并不是什么崇高的人，也并不想发表一些冠冕的高论。笔者只觉得能够花掉全部的心力投入到一件事上，能够和世界各个角落真实的人产生连接，能够探访各地历经各种精彩，能够在游戏中获得正反馈和激励，就是笔者此行最大的收获。
 
 最后希望每位 ingress 同僚都能不懈前行，各自精彩，广阔天地，大有可为。
+
+<p align="center">
+    <img src="./images/result-large.jpg" width="300"/>
+    <center>最终成果展示</center>
+</p>
 
 ## 致谢
 
