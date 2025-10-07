@@ -2,7 +2,7 @@
 title: 启蒙海南：新人绿军的首次远征
 published: 2025-05-01
 description: 'Ingress 新人远征海南战报'
-image: 'images/ingress-enlightened.svg'
+image: 'https://webp.maplef.top/2025/10/a0c3faada71add4e6e20970430fa76e7.svg'
 tags: [ingress]
 category: '战报'
 draft: false
@@ -27,7 +27,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 至此如果一切顺利，覆盖海南岛的计划将会最早于4月30日在三亚成功完成，刚好避开劳动节可能涌入的旅游人潮。
 
 <p align="center">
-    <img src="./images/general-plan.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/b9a3d44d2f1d854d7a350477a1d8feb7.jpg" width="300"/>
     <center>临行前所做的计划图</center>
 </p>
 
@@ -40,14 +40,14 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 谢过 SpaceLion 大佬后，大佬打的车就到了，于是匆匆告别，可儿准备的 biocard 也未来得及发出去。后来，SpaceLion 还给我们介绍了一位三亚的绿军伙伴 acaspirin 作为照应，又增加了我们的力量和信心。SpaceLion 大佬为我们提供的物资帮助我们理清了接下来计划的思路，给我们提供了非常重要的帮助和支持。
 
 <p align="center">
-    <img src="./images/spacelion-chat.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/3543cf25b3014e1025bdb5a1c6f535c5.jpg" width="300"/>
     <center>和 SpaceLion744 大佬的聊天</center>
 </p>
 
 晚上，我们出门 c po，一路逛到了世纪大桥下，一人一个椰子捧在手里美美地嘬。新鲜的椰子清甜，带有青草的香气和椰子独有的味道，比超市里卖的椰子水不知道好喝多少倍。晚上回到旅馆，一边吃着椰奶清补凉一边打开 IITC 规划接下来的作战计划，在困倦的睡意中期望接下来的旅途一切顺利。
 
 <p align="center">
-    <img src="./images/coconut.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/e147b719f3954ea4607389a2cba123dc.jpg" width="300"/>
     <center>coconut!</center>
 </p>
 
@@ -59,8 +59,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <table>
 <tr>
-    <td><img src="./images/heavy-rain.jpg"></td>
-    <td><img src="./images/baoting-barrier.jpg"></td>
+    <td><img src="https://webp.maplef.top/2025/10/cf2ec530fa248d36259c19725d111bfc.jpg"></td>
+    <td><img src="https://webp.maplef.top/2025/10/483dcbaf14f22c6e37e0d664e0cbb963.jpg"></td>
 </tr>
 <tr>
     <td><center>从天上掉下来的海</center></td>
@@ -71,7 +71,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 好在，笔者联系了 acaspirin 后，大佬表示可以帮助解决保亭连线的问题。我们非常开心，于是和 acaspirin 交流了可能存在遮挡的位置，大佬非常乐意提供帮助，并表示没有问题。
 
 <p align="center">
-    <img src="./images/acaspirin-chat1.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/d3d816a156657dd2d0edd9831f696b86.jpg" width="300"/>
     <center>请求 acaspirin 大佬帮助</center>
 </p>
 
@@ -84,7 +84,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 事情像预想的那样发生了，63km，从【环形座椅】到【天海山大石头】，基线已经成型。笔者很激动，因为这意味着第一次成功，我们已经走出了第一步。
 
 <p align="center">
-    <img src="./images/tianhaishan-link.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/bd019a81b1891916a25ebac87dbc7365.jpg" width="300"/>
     <center>从【环形座椅】到【天海山大石头】的示意（原图丢失）</center>
 </p>
 
@@ -92,8 +92,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <table>
 <tr>
-    <td><img src="./images/cam-rocket2.jpg"></td>
-    <td><img src="./images/rocket.jpg"></td>
+    <td><img src="https://webp.maplef.top/2025/10/7d5cda59791322675c3ed946dfc1e512.jpg"></td>
+    <td><img src="https://webp.maplef.top/2025/10/1e70c737070fe8f4868daa055ebf9b7e.jpg"></td>
 </tr>
 <tr>
     <td><center>拍屏隔壁大哥的相机</center></td>
@@ -109,8 +109,8 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 
 <table>
 <tr>
-    <td><img src="./images/meal1.jpg"></td>
-    <td><img src="./images/meal2.jpg"></td>
+    <td><img src="https://webp.maplef.top/2025/10/2fbf3bc978c87b8e5c12493d3fe1d256.jpg"></td>
+    <td><img src="https://webp.maplef.top/2025/10/d07d0959fbe2266c8397e2f1ec441b85.jpg"></td>
 </tr>
 </table>
 
@@ -121,7 +121,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 这个我们偶然发现的【水塔克】看起来是一个破败的水塔，在此等荒郊野地能发现新的 portal，怎么不算是一种天赐良遇。我们下车摸了一些 key，插好脚，上好盾，成功连接上了【环形座椅】和【天海山大石头】，做出了一个不大不小的 field。笔者心情舒畅，驱车下山，期待这个偶然发现的 po 能给我们带来更多的收获。
 
 <p align="center">
-    <img src="./images/shuitake-link.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/83b3f1ac54fe3b113f1ff9a8e200eb71.jpg" width="300"/>
     <center>从【水塔克】到【环形座椅】</center>
 </p>
 
@@ -142,7 +142,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 此行本计划参观海南铁路博物馆，但当我们到达后却被告知下午两点半以后才能入馆参观，这对我们的行程来说太晚了，是不可接受的。于是笔者只能按连线的原计划起 po，并心情激动地在距离此处 218km 的【海南航空】按下 link 按钮。至此，从海南最北端海口分别至东西两侧的基线均已成功建立，笔者离胜利又进了一步。
 
 <p align="center">
-    <img src="./images/rail-hainanhangkong.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/311e5ed52d0a086bd3aca8557e13f929.jpg" width="300"/>
     <center>从【海南铁路博物馆】到【海南航空】</center>
 </p>
 
@@ -157,7 +157,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 下午 5 时许，笔者离开住处开始行动，首先前往西半 field 的最后节点【金鸡岭路社区户外活动中心】。这个 po 位于一个小巷子内部，车子开进去后刚巧有一个停车位，并且还能正好摸到，于是西半边的 field 被成功建立。这是一个几乎两腰等长 200km，底边 128km 的区域，总共产出了 1555510MU，是此行规划的面积最大的 field。这时，行动已经成功了近一半，鉴于接下来的多重需要频繁走停，笔者于是更换了更方便的电动车作为载具。
 
 <p align="center">
-    <img src="./images/west-field.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/438a123517f6c66d15342cd39f6dc2f6.jpg" width="300"/>
     <center>西半边的巨大 field</center>
 </p>
 
@@ -166,7 +166,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 按照预先的规划，我们将沿荔枝沟路行进至金鸡岭街，最后到达海岸边，使用沿途挑选好的 11 个 po 做多重。由于多重的形状比较狭长，link 距离达到了 211km，笔者只得在每个 po 上都安装 SoftBank Ultra Link 增加连接距离。笔者在金鸡岭街走走停停，每个 field 大小都基本在 100w MU 左右，一共拉了 11 个。在拉最后一个 po 【阑海花园】的时候，又额外将其连接至了【水塔克】，使笔者额外多获得了 100w MU。
 
 <p align="center">
-    <img src="./images/east-multiple-all.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/20ced14fd6751e3dddfa682198effd8a.jpg" width="300"/>
     <center>东半部分的多重</center>
 </p>
 
@@ -177,7 +177,7 @@ Tarcadia（可儿） 于四月中规划了前往海南的旅程，笔者闻之�
 最后希望每位 ingress 同僚都能不懈前行，各自精彩，广阔天地，大有可为。
 
 <p align="center">
-    <img src="./images/result-large.jpg" width="300"/>
+    <img src="https://webp.maplef.top/2025/10/356eb51fc80ed807c0e91efd30a4e863.jpg" width="300"/>
     <center>最终成果展示</center>
 </p>
 
