@@ -49,18 +49,18 @@ export const profileConfig: ProfileConfig = {
 	name: "Maplef",
 	bio: "在日渐沉没的世界里，我找到了你",
 	links: [
-    {
-      name: "Email",
-      icon: "material-symbols:mail",
-      url: "mailto:i@maplef.top"
-    },
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://x.com/maplefsnow",
+			name: "Email",
+			icon: "material-symbols:mail",
+			url: "mailto:i@maplef.top"
 		},
+		// {
+		// 	name: "Twitter",
+		// 	icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+		// 	// You will need to install the corresponding icon set if it's not already included
+		// 	// `pnpm add @iconify-json/<icon-set-name>`
+		// 	url: "https://x.com/maplefsnow",
+		// },
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",
